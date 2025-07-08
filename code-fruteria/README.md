@@ -1,7 +1,11 @@
-# 🍌 Code Fruteria 🍎
+# 🍌 Code Fruteria 🍎 — *Refreshed & Full-Stack Ready!*
 
-Welcome to the juiciest repo on GitHub! This is your backstage pass to a mock login system and the world’s first* digital fruit trading floor.  
-(*Probably.)
+> 🚀 **New & Improved:**  
+> • Switched from mock login to real Node.js + JWT backend  
+> • Clean project structure: `frontend/` + `backend/`  
+> • Ant Design-based UI with drag-and-drop grid panels  
+> • Better state management and user experience  
+> • Easy setup with `npm run install-all` and `npm run dev`
 
 > ⚠️ **Note:** This project runs best on **Node.js v16.14.2**.  
 > If you’re using a different version, you might end up with banana peels in your stack trace.
@@ -81,22 +85,6 @@ code-fruteria/
 - Add dark/light mode toggle (already exists! 🌗)
 - Add persistent login using JWT from backend ✅
 - Replace mock user DB with real DB (MongoDB / Supabase / JSON file?)
-
----
-
-## 🤖 Friendly Reminder
-
-AI friends like **GitHub Copilot**, **Amazon Q**, or **ChatGPT** are allowed.  
-Just don’t let them eat all the fruit.
-
----
-
-## 🎁 Submission Checklist for TP ICAP
-
-✅ Zipped folder named like `ApoorvSeth-FrontendDeveloper.zip`  
-✅ No `node_modules`, `.exe`, `.dll`, `bin`, or `obj` folders  
-✅ Backend + Frontend in `code-fruteria`  
-✅ This README.md included
 
 ---
 
