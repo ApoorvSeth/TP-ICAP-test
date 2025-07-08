@@ -1,0 +1,12 @@
+{
+    "name": "code-fruteria-monorepo",
+    "private": true,
+    "scripts": {
+      "install-all": "npm --prefix frontend install --legacy-peer-deps && npm --prefix backend install",
+      "dev": "concurrently \"npm --prefix backend start\" \"npm --prefix frontend run dev\""
+    },
+    "devDependencies": {
+      "concurrently": "^8.2.0"
+    }
+  }
+  
